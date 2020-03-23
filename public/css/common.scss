@@ -1,0 +1,257 @@
+h3{
+  color:rgba(37, 155, 36, 1);
+  a{
+    color: rgba(37, 155, 36, 1);
+    font-size: 28px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+.van-circle__text{
+  color: #fff!important;
+}
+.page .van-button--large{
+  background: rgb(37, 155, 36);
+  color:#fff;
+  width:88%;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.evaluation_content{
+  height: 40px;
+  width: 90%;
+  border-radius: 30px;
+  margin: 15px 0;
+  caret-color: #42b983;
+  background: rgb(234, 234, 234);
+  text-align: center;
+  font-size: 14px;
+  border: none;
+}
+//会员卡显示
+.card-content{
+  margin: 5px;
+  background: #fff;
+  box-shadow: 0 0 2px 2px #e0e0e0;
+}
+.card-content .van-col{
+  text-align: left;
+  padding: 5px;
+  font-size: 12px;
+}
+.card-content .card-content-title{
+  font-size: 16px;
+  font-weight: bold;
+}
+.card-content-number{
+  color: rgba(255, 152, 0, 1);
+}
+
+.my-flex{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  justify-content:space-around;
+}
+.my-flex-1{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;}
+/**内外边距类**/
+.my-padding-0 {
+	padding: 0 !important;
+}
+.my-padding-5 {
+	padding: 0.25rem !important;
+}
+.my-padding-10 {
+	padding: 0.5rem !important;
+}
+.my-padding-15 {
+	padding: 0.75rem !important;
+}
+.my-padding-t-0 {
+	padding-top: 0 !important;
+}
+.my-padding-t-5 {
+	padding-top: 0.25rem !important;
+}
+.my-padding-t-10 {
+	padding-top: 0.5rem !important;
+}
+.my-padding-t-15 {
+	padding-top: 0.75rem !important;
+}
+.my-padding-b-0 {
+	padding-bottom: 0 !important;
+}
+.my-padding-b-5 {
+	padding-bottom: 0.25rem !important;
+}
+.my-padding-b-10 {
+	padding-bottom: 0.5rem !important;
+}
+.my-padding-b-15 {
+	padding-bottom: 0.75rem !important;
+}
+.my-padding-l-0 {
+	padding-left: 0 !important;
+}
+.my-padding-l-5 {
+	padding-left: 0.25rem !important;
+}
+.my-padding-l-10 {
+	padding-left: 0.5rem !important;
+}
+.my-padding-l-15 {
+	padding-left: 0.75rem !important;
+}
+.my-padding-r-0 {
+	padding-right: 0 !important;
+}
+.my-padding-r-5 {
+	padding-right: 0.25rem !important;
+}
+.my-padding-r-10 {
+	padding-right: 0.5rem !important;
+}
+.my-padding-r-15 {
+	padding-right: 0.75rem !important;
+}
+.my-margin-0 {
+	margin: 0 !important;
+}
+.my-margin-5 {
+	margin: 0.25rem !important;
+}
+.my-margin-10 {
+	margin: 0.5rem !important;
+}
+.my-margin-15 {
+	margin: 0.75rem !important;
+}
+.my-margin-t-0 {
+	margin-top: 0 !important;
+}
+.my-margin-t-5 {
+	margin-top: 0.25rem !important;
+}
+.my-margin-t-10 {
+	margin-top: 0.5rem !important;
+}
+.my-margin-t-15 {
+	margin-top: 0.75rem !important;
+}
+.my-margin-b-0 {
+	margin-bottom: 0 !important;
+}
+.my-margin-b-5 {
+	margin-bottom: 0.25rem !important;
+}
+.my-margin-b-10 {
+	margin-bottom: 0.5rem !important;
+}
+.my-margin-b-15 {
+	margin-bottom: 0.75rem !important;
+}
+.my-margin-l-0 {
+	margin-left: 0 !important;
+}
+.my-margin-l-5 {
+	margin-left: 0.25rem !important;
+}
+.my-margin-l-10 {
+	margin-left: 0.5rem !important;
+}
+.my-margin-l-15 {
+	margin-left: 0.75rem !important;
+}
+.my-margin-r-0 {
+	margin-right: 0 !important;
+}
+.my-margin-r-5 {
+	margin-right: 0.25rem !important;
+}
+.my-margin-r-10 {
+	margin-right: 0.5rem !important;
+}
+.my-margin-r-15 {
+	margin-right: 0.75rem !important;
+}
+/**背景色**/
+.bg-f{
+  background-color: #fff;
+}
+.bg-e{
+  background-color: #eee;
+}
+/**字体大小**/
+.font-12{
+  font-size:12px;
+}
+.font-14{
+  font-size:14px;
+}
+.font-16{
+  font-size:16px;
+}
+.font-20{
+  font-size:20px;
+}
+/**边框**/
+.border-t{
+  border-top: 1px solid #eee;
+}
+.border-b{
+  border-bottom: 1px solid #eee;
+}
+/**文字隐藏处理**/
+.text-center{
+  text-align: center;
+}
+.text-left{
+  text-align: left;
+}
+.text-right{
+  text-align: right;
+}
+.tit{
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+.in-tit1.tit{
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.in-tit2.tit{
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.in-tit3.tit{
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.in-tit4.tit{
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
