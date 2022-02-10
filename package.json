@@ -28,7 +28,7 @@
     "vant": "^2.5.7",
     "vue-template-compiler": "^2.6.11",
     "sass-loader": "^8.0.2",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "eslintConfig": {
     "root": true,
